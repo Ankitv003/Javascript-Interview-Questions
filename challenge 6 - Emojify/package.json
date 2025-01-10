@@ -1,0 +1,17 @@
+{
+  "name": "Scrim-s03ts3q",
+  "description": "https://scrimba.com/s03ts3q/s0nn77j6nb/head",
+  "scripts": {
+    "watch": "webpack -w",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "^2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*"
+  }
+}
