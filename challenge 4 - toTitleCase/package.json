@@ -1,0 +1,17 @@
+{
+  "name": "Scrim-s03uuc5",
+  "description": "https://scrimba.com/s03uuc5/s0s916i0bd/head",
+  "scripts": {
+    "watch": "webpack -w",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "^2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*"
+  }
+}
